@@ -12,8 +12,7 @@ Esta es mi primera aplicación en android, ingrese su mensaje y luego se mostrar
 
 ### Ejemplo
 
-![](Images/Image1.jpeg)
-
-![](Images/Image2.jpeg)
-
-![](Images/Image3.jpeg)
+ <img src="Images/Image1.jpeg" width="270" height="540"/>
+ <img src="Images/Image2.jpeg" width="270" height="540"/>
+ <img src="Images/Image3.jpeg" width="270" height="540"/>
+ 
